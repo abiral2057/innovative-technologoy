@@ -311,8 +311,8 @@ color: aliceblue;
     }
     #navmenubar img{
         padding-top: 10px;
-        height: fit-content;
-        width: 35px;
+        height: fit-content !important;
+        width: 20px !important;
     }
     header{
         margin-bottom:60%;
