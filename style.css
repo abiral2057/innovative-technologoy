@@ -310,6 +310,7 @@ color: aliceblue;
         padding-top:10px;
     }
     #navmenubar img{
+        display: none;
         padding-top: 10px;
         height: fit-content !important;
         width: 20px !important;
